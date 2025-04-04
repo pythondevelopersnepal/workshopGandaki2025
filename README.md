@@ -19,3 +19,6 @@ Matplotlib: https://matplotlib.org/stable/tutorials/pyplot.html
 
 Seaborn: https://seaborn.pydata.org/tutorial.html
 
+## For data:
+https://tinyurl.com/yeys26ph
+
