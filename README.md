@@ -19,6 +19,8 @@ Matplotlib: https://matplotlib.org/stable/tutorials/pyplot.html
 
 Seaborn: https://seaborn.pydata.org/tutorial.html
 
+Streamlit: https://docs.streamlit.io/get-started/fundamentals/main-concepts
+
 ## For data:
 https://tinyurl.com/yeys26ph
 
