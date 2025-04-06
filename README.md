@@ -26,4 +26,5 @@ https://tinyurl.com/yeys26ph
 
 ## For practice:
 https://www.researchgate.net/publication/354510716_Sentiment_Analysis_on_Covid-19_Vaccination_Tweets_using_Naive_Bayes_and_LSTM
+https://www.sciencedirect.com/science/article/abs/pii/S0141029624000968
 
