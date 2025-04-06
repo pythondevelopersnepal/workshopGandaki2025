@@ -24,12 +24,3 @@ Streamlit: https://docs.streamlit.io/get-started/fundamentals/main-concepts
 ## For data:
 https://tinyurl.com/yeys26ph
 
-## label-studio code:
-<View>
-  <Image name="image" value="$image"/>
-  <Choices name="choice" toName="image">
-    <Choice value="Damage"/>
-    <Choice value="No damage"/>
-  </Choices>
-</View>
-
