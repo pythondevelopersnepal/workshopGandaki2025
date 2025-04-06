@@ -24,3 +24,6 @@ Streamlit: https://docs.streamlit.io/get-started/fundamentals/main-concepts
 ## For data:
 https://tinyurl.com/yeys26ph
 
+## For practice:
+https://www.researchgate.net/publication/354510716_Sentiment_Analysis_on_Covid-19_Vaccination_Tweets_using_Naive_Bayes_and_LSTM
+
